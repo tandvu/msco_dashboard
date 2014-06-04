@@ -1,0 +1,28 @@
+
+<div>
+	<h1>SYSTEM</h1>
+</div>
+
+<div style="width: 60%; margin-left: 20%; margin-right: 20%;">
+
+	<table id="table-2">
+		<thead>
+			<tr>
+				<th style="width: 30%">Name</th>
+				<th style="width: 40%">Description</th>
+				<th style="width: 15%">Status</th>
+				<th style="width: 15%">CPU Usage</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="vm in vmList">
+				<td>{{vm.name}}</td>
+				<td>{{vm.description}}</td>
+				<td class="center">{{vm.deployment_status}}</td>
+				<td class="center">{{vm.cpu_usage}}%
+					<div class="col-sm-4"><progressbar value="55"></progressbar></div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

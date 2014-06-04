@@ -1,0 +1,68 @@
+{
+  "_collectiondata": [
+    {
+      "name": "CBRN_GCCS-J",
+      "system_name": "GCCS-J",
+      "description": "GCCS Chemical Biological Radiological and Nuclear scenario",
+      "version": "4.3",
+      "unique_cloud_vm_id": "MSCO-Test<0xdelimit>msco-esxi4.sd.spawar.navy.mil<0xdelimit>CBRN_GCCS-J",
+      "VLAN": "21",
+      "properties": "",
+      "deployment_status": "deployed",
+      "url": "http://msco-db.sd.spawar.navy.mil/nm.php/CBRN-EX1/TrngEventVirtualSystems/1397768218398",
+      "time": "2014-04-17 13:56:58",
+      "cpu_usage" : "50"
+    },
+    {
+      "name": "CBRN_GClient",
+      "system_name": "GCCS-J",
+      "description": "GCCS Chemical Biological Radiological and Nuclear scenario",
+      "version": "4.3",
+      "unique_cloud_vm_id": "MSCO-Test<0xdelimit>msco-esxi4.sd.spawar.navy.mil<0xdelimit>CBRN_GClient",
+      "VLAN": "21",
+      "properties": "",
+      "deployment_status": "deployed",
+      "url": "http://msco-db.sd.spawar.navy.mil/nm.php/CBRN-EX1/TrngEventVirtualSystems/1397768318093",
+      "time": "2014-04-17 13:58:38",
+      "cpu_usage": 75
+    },
+    {
+      "name": "CBRN_JSAF",
+      "system_name": "JSAF",
+      "description": "JSAF VM Chemical Biological Radiological and Nuclear scenario",
+      "version": "4.6.0.4",
+      "unique_cloud_vm_id": "MSCO-Test<0xdelimit>msco-esxi3.sd.spawar.navy.mil<0xdelimit>CBRN_JSAF",
+      "VLAN": "21",
+      "properties": "",
+      "deployment_status": "deployed",
+      "url": "http://msco-db.sd.spawar.navy.mil/nm.php/CBRN-EX1/TrngEventVirtualSystems/1397768755473",
+      "time": "2014-04-17 14:05:55"
+    },
+    {
+      "name": "CBRN-EX1_GCCS-J",
+      "system_name": "GCCS-J",
+      "description": "C2 Viewer",
+      "version": "4.3",
+      "unique_cloud_vm_id": "",
+      "VLAN": "21",
+      "template_uri": "C:\\OVFs\\MSCO-SOL10GCL.ovf",
+      "properties": "",
+      "deployment_status": "undeployed",
+      "url": "http://msco-db.sd.spawar.navy.mil/nm.php/CBRN-EX1/TrngEventVirtualSystems/1401348957190",
+      "time": "2014-05-29 00:35:57"
+    },
+    {
+      "name": "CBRN-EX1_GCCS-J-0",
+      "system_name": "GCCS-J",
+      "description": "C2 Viewer",
+      "version": "4.3",
+      "unique_cloud_vm_id": "",
+      "VLAN": "21",
+      "template_uri": "C:\\OVFs\\MSCO-SOL10GCL.ovf",
+      "properties": "",
+      "deployment_status": "undeployed",
+      "url": "http://msco-db.sd.spawar.navy.mil/nm.php/CBRN-EX1/TrngEventVirtualSystems/1401348958595",
+      "time": "2014-05-29 00:35:58"
+    }
+  ]
+}

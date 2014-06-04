@@ -1,0 +1,34 @@
+[
+{
+"name":"DisasterRelief-EX1",
+"poc":"Mr. James Boerke",
+"role":"Planner",
+"state":"Running",
+"url":"http://msco-db.sd.spawar.navy.mil/nm.php/SystemConfig/TrngEvents/1397088033689",
+"time":"2014-04-09 17:02:12"
+},
+{
+"name":"CBRN-EX1",
+"poc":"Mr. James Boerke",
+"role":"Planner",
+"state":"Planning",
+"url":"http://msco-db.sd.spawar.navy.mil/nm.php/SystemConfig/TrngEvents/1397604270805",
+"time":"2014-04-15 16:24:30"
+},
+{
+"name":"Terrorism-EX1",
+"poc":"Mr. James Boerke",
+"role":"Planner",
+"state":"Planning",
+"url":"http://msco-db.sd.spawar.navy.mil/nm.php/SystemConfig/TrngEvents/1397604282567",
+"time":"2014-04-15 16:24:42"
+},
+{
+"name":"SandBox",
+"poc":"Mr. James Boerke",
+"role":"Planner",
+"state":"Running",
+"url":"http://msco-db.sd.spawar.navy.mil/nm.php/SystemConfig/TrngEvents/1397700204020",
+"time":"2014-04-16 19:03:24"
+}
+]
