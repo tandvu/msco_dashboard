@@ -11,7 +11,8 @@
       "properties": "",
       "deployment_status": "undeployed",
       "url": "http://msco-db.sd.spawar.navy.mil/nm.php/SandBox/TrngEventVirtualSystems/1401386382364",
-      "time": "2014-05-29 10:59:42"
+      "time": "2014-05-29 10:59:42",
+      "cpu_usage": "50"
     }
   ]
 }

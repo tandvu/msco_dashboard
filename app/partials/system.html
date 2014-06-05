@@ -19,8 +19,10 @@
 				<td>{{vm.name}}</td>
 				<td>{{vm.description}}</td>
 				<td class="center">{{vm.deployment_status}}</td>
-				<td class="center">{{vm.cpu_usage}}%
-					<div class="col-sm-4"><progressbar value="55"></progressbar></div>
+				<td class="center">
+					{{vm.cpu_usage}}%
+					<progressbar value="vm.cpu_usage" type={{getType(vm.cpu_usage)}}></progressbar>
+				
 				</td>
 			</tr>
 		</tbody>

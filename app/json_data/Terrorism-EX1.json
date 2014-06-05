@@ -10,7 +10,8 @@
       "properties": "",
       "deployment_status": "deployed",
       "url": "http://msco-db.sd.spawar.navy.mil/nm.php/Terrorism-EX1/TrngEventVirtualSystems/1397768901548",
-      "time": "2014-04-17 14:08:21"
+      "time": "2014-04-17 14:08:21",
+      "cpu_usage" : "48"
     },
     {
       "name": "Terrorism_GCCS-J",
@@ -22,7 +23,8 @@
       "properties": "",
       "deployment_status": "deployed",
       "url": "http://msco-db.sd.spawar.navy.mil/nm.php/Terrorism-EX1/TrngEventVirtualSystems/1397768970814",
-      "time": "2014-04-17 14:09:30"
+      "time": "2014-04-17 14:09:30",
+      "cpu_usage" : "62"
     },
     {
       "name": "Terrorism_GClient",
@@ -34,7 +36,8 @@
       "properties": "",
       "deployment_status": "deployed",
       "url": "http://msco-db.sd.spawar.navy.mil/nm.php/Terrorism-EX1/TrngEventVirtualSystems/1397769026675",
-      "time": "2014-04-17 14:10:26"
+      "time": "2014-04-17 14:10:26",
+      "cpu_usage" : "88"
     },
     {
       "name": "Terrorism-EX1_JCATS",
@@ -47,7 +50,8 @@
       "properties": "",
       "deployment_status": "deployed",
       "url": "http://msco-db.sd.spawar.navy.mil/nm.php/Terrorism-EX1/TrngEventVirtualSystems/1401381459538",
-      "time": "2014-05-29 09:49:30"
+      "time": "2014-05-29 09:49:30",
+      "cpu_usage" : "97"
     }
   ]
 }
